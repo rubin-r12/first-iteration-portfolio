@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Rubin",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer",
+    "image": "me.jpg",
+    "bio": "My name is Rubin, I'm a Full Stack ReactJS Developer and a Data Scientist ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "rubinradhakrishnan@gmail.com",
+    "phone": "+91 89 515 63584",
+    "address": {
+      "street": "Green Glen Layout",
+      "city": "Bengaluru",
+      "state": "India",
+      "zip": "560103"
+    },
+    "website": "https://agitated-kirch-5c3401.netlify.app",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1NJdw-AMLVL2u04_uziU_lFpJDikB6kfO",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rubin.radhakrishnan/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rubin-r12/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rubin_r12/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rubin-r12",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Amrita Vishwa Vidyapeetham, Bengaluru",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "September 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Genpact",
+        "title": "Data Scientist",
+        "years": "June 2018 - Present",
+        "description": "Use scientific methods to extract knowledge and insights from the data."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Django && Flask",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-clone-88c97.web.app"
+      },
+      {
+        "title": "COVID-19 Tracker",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "covid-19-tracker.png",
+        "url": "https://covid-19-tracker-2a946.web.app"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb_1.PNG",
+        "url": "https://airbnb-clone-ea59d.web.app"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix.PNG",
+        "url": "https://netflix-clone-694b4.web.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Rubin must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
