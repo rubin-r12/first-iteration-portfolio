@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Rubin",
-    "occupation": "ReactJS Developer",
-    "description": "Full Stack React Developer",
+    "occupation": "ReactJS Developer && Freelancer.",
+    "description": "Full Stack React Developer by Day, Freelancer and Coach by Night",
     "image": "me.jpg",
     "bio": "My name is Rubin, I'm a Full Stack ReactJS Developer and a Data Scientist ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -10,7 +10,7 @@
     "phone": "+91 89 515 63584",
     "address": {
       "street": "Green Glen Layout",
-      "city": "Bengaluru",
+      "city": "Bangalore",
       "state": "India",
       "zip": "560103"
     },
@@ -60,7 +60,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "97%"
       },
       {
         "name": "CSS",
