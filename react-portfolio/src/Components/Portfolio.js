@@ -38,7 +38,7 @@ class Portfolio extends Component {
                 fontStyle: "italic",
               }}
             >
-              Check Out Some of My Works!
+              Some Things I've Built
             </h1>
 
             <div

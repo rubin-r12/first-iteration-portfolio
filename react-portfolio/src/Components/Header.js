@@ -49,11 +49,11 @@ class Header extends Component {
                 Works
               </a>
             </li>
-            <li>
+            {/* <li>
               <a className="smoothscroll" href="#testimonials">
                 Testimonials
               </a>
-            </li>
+            </li> */}
             <li>
               <a className="smoothscroll" href="#contact">
                 Contact
@@ -67,7 +67,7 @@ class Header extends Component {
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>
               I'm a {city} based <span>{occupation}</span>
-              <br></br> {description} .
+              <br /> {description} .
             </h3>
             <hr />
             <ul className="social">{networks}</ul>
