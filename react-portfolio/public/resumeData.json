@@ -103,7 +103,7 @@
       {
         "title": "Netflix Clone with React",
         "category": "Netflix Clone built with ReactJS",
-        "image": "netflix.PNG",
+        "image": "netflix.png",
         "url": "https://netflix-clone-694b4.web.app"
       },
       {
@@ -113,16 +113,16 @@
         "url": "https://covid-19-tracker-2a946.web.app"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://facebook-clone-88c97.web.app"
-      },
-      {
         "title": "Airbnb Clone with React",
         "category": "Facebook Clone built with ReactJS",
         "image": "airbnb_1.PNG",
         "url": "https://airbnb-clone-ea59d.web.app"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-clone-88c97.web.app"
       }
     ]
   },
