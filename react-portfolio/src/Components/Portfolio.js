@@ -13,7 +13,8 @@ class Portfolio extends Component {
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>{projects.title}</h5>
-                    <p>{projects.category}</p>
+                    <p>Click here to visit the website.</p>
+                    {/* <p>{projects.category}</p> */}
                   </div>
                 </div>
                 {/* <div className="link-icon">
