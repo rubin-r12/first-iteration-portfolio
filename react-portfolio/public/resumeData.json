@@ -2,12 +2,12 @@
   "main": {
     "name": "Rubin",
     "occupation": "ReactJS Developer && Data Scientist.",
-    "description": "Full Stack React Developer by Day, Coding Tutor && Freelancer by Night",
+    "description": "Full Stack React Developer by Day, Coding Mentor && Freelancer by Night",
     "image": "me.jpg",
     "bio": "My name is Rubin and I'm a Full Stack ReactJS Developer. Currently, I work at Genpact as a Senior Associate besides pursuing my Master's Degree in Data Science from BITS-WILP.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "rubinradhakrishnan@gmail.com",
-    "phone": "+91 89 515 63584",
+    "phone": "+91 89515 63584",
     "address": {
       "street": "Green Glen Layout, Bellandur",
       "city": "Bangalore",
@@ -43,24 +43,42 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
+        "school": "Birla Institute of Technology and Science, Pilani",
+        "degree": "Masters in Data Science",
+        "graduated": "September 2019 - Present",
+        "description": "Ongoing"
+      },
+      {
         "school": "Amrita Vishwa Vidyapeetham, Bengaluru",
         "degree": "Bachelors in Computer Science",
-        "graduated": "September 2018",
+        "graduated": "May 2018",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
         "company": "Genpact",
-        "title": "Data Scientist",
+        "title": "Senior Associate",
         "years": "June 2018 - Present",
-        "description": "Use scientific methods to extract knowledge and insights from the data."
+        "description": "Apply scientific methods & techniques to extract knowledge and insights from the data."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "97%"
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "RShiny",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "98%"
       },
       {
         "name": "CSS",
@@ -68,24 +86,32 @@
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "85%"
       },
       {
         "name": "Django && Flask",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
+        "level": "82%"
       },
       {
         "name": "Firebase",
-        "level": "80%"
+        "level": "94%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Netflix Clone with React",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix.PNG",
+        "url": "https://netflix-clone-694b4.web.app"
+      },
+      {
+        "title": "COVID-19 Tracker with React",
+        "category": "COVID-19 Tracker built with ReactJS",
+        "image": "covid-19-tracker.png",
+        "url": "https://covid-19-tracker-2a946.web.app"
+      },
       {
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
@@ -93,22 +119,10 @@
         "url": "https://facebook-clone-88c97.web.app"
       },
       {
-        "title": "COVID-19 Tracker",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "covid-19-tracker.png",
-        "url": "https://covid-19-tracker-2a946.web.app"
-      },
-      {
-        "title": "Airbnb Clone",
+        "title": "Airbnb Clone with React",
         "category": "Facebook Clone built with ReactJS",
         "image": "airbnb_1.PNG",
         "url": "https://airbnb-clone-ea59d.web.app"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix.PNG",
-        "url": "https://netflix-clone-694b4.web.app"
       }
     ]
   },
