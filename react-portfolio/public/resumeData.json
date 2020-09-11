@@ -1,15 +1,15 @@
 {
   "main": {
     "name": "Rubin",
-    "occupation": "ReactJS Developer && Freelancer.",
-    "description": "Full Stack React Developer by Day, Freelancer and Coach by Night",
+    "occupation": "ReactJS Developer && Data Scientist.",
+    "description": "Full Stack React Developer by Day, Coding Tutor && Freelancer by Night",
     "image": "me.jpg",
-    "bio": "My name is Rubin, I'm a Full Stack ReactJS Developer and a Data Scientist ",
+    "bio": "My name is Rubin and I'm a Full Stack ReactJS Developer. Currently, I work at Genpact as a Senior Associate besides pursuing my Master's Degree in Data Science from BITS-WILP.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "rubinradhakrishnan@gmail.com",
     "phone": "+91 89 515 63584",
     "address": {
-      "street": "Green Glen Layout",
+      "street": "Green Glen Layout, Bellandur",
       "city": "Bangalore",
       "state": "India",
       "zip": "560103"
