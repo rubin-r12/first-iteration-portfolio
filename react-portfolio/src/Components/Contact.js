@@ -13,7 +13,9 @@ const Contact = ({ data }) => {
 
   const handleClick = (e) => {
     e.preventDefault();
-    window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+    window.open(
+      `mailto:rubinradhakrishnan@gmail.com?subject=${subject}&body=${name}: ${message}`
+    );
   };
 
   return (
