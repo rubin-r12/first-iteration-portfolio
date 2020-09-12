@@ -1,4 +1,4 @@
-# Portfolio first iteration
+# Portfolio First Iteration
 
 ![portfolio](https://i.ibb.co/3fbkfcv/react-portfolio.png)
 
